@@ -7,7 +7,7 @@ endif()
 
 # This can be read from ${PROJECT_NAME} after project() is called
 project(MultiCraft)
-set(PROJECT_NAME_CAPITALIZED "MyCraft")
+set(PROJECT_NAME_CAPITALIZED "CreativeBox")
 
 # Works only for cmake 3.1 and greater
 set(CMAKE_CXX_STANDARD 11)
