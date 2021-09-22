@@ -1,13 +1,13 @@
-MyCraft Open Source
+CreativeBox Open Source
 ===================
 
-MyCraft is an Open Source sanbox game, based on MultiCraft Engine and Minetest projects.
+CreativeBox is an Open Source sanbox game, based on MultiCraft Engine and Minetest projects.
 
 MultiCraft is an Open Source sandbox game inspired by [Minecraft](https://minecraft.net/).
 
 MultiCraft is based on the Minetest project, which is developed by a [number of contributors](https://github.com/minetest/minetest/graphs/contributors).
 
-Copyright © 2020-2021 MyCraft Open Source.
+Copyright © 2020-2021 CreativeBox Open Source.
 
 Copyright © 2014-2019 Maksim Gamarnik [MoNTE48] <MoNTE48@mail.ua> & MultiCraft Development Team.
 
