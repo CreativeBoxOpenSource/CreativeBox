@@ -98,17 +98,17 @@ return {
 	cbf_formspec = function()
 	local version = core.get_version()
 		return "label[0.1,-0.1;" ..
-			"MyCraft Open Source, ver. " .. version.string .. "\n" ..
-			"Copyright (C) 2020-2021 MyCraft Team\n" ..
+			"Creative Box Open Source, ver. " .. version.string .. "\n" ..
+			"Copyright (C) 2020-2021 Creative Box Team\n" ..
 			"Licence: LGPLv3.0+ and CC-BY-SA 4.0\n" ..
-			"Home page: http://mycraft.cloud]" ..
+			"Home page: http://creativebox.cloud]" ..
 			"tablecolumns[color;text]" ..
 			"tableoptions[background=#999999;highlight=#00000000;border=true]" ..
 			"table[0,1.6;11.8,3.8;list_credits;" ..
-			"#FFFF00," .. fgettext("MultiCraft Developers") .. ",," ..
-			buildCreditList(multicraft_developers) .. ",,," ..
 			"#FFFF00," .. fgettext("Minetest Developers") .. ",," ..
 			buildCreditList(core_developers) .. ",,," ..
+			"#FFFF00," .. fgettext("MultiCraft Developers") .. ",," ..
+			buildCreditList(multicraft_developers) .. ",,," ..
 			"#FFFF00," .. fgettext("Active Contributors") .. ",," ..
 			buildCreditList(active_contributors) .. ",,," ..
 			"#FFFF00," .. fgettext("Previous Core Developers") ..",," ..
